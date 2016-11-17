@@ -1,24 +1,27 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Create a web application that will generate the first 1000 prime numbers beginning with 2. The
 
-Things you may want to cover:
+application should generate an array of primes in any modern server-side language and
 
-* Ruby version
+respond as a web service to a call from the client-side AJAX request. Feel free to use any
 
-* System dependencies
+libraries or packages that you would use for any normal project, we encourage using toolkits
 
-* Configuration
+like Bootstrap, Bower, npm, Grunt, etc.
 
-* Database creation
+Once you've completed the project please respond with a link to the Github repository.
 
-* Database initialization
+1. Create a Github repository for your code.
 
-* How to run the test suite
+2. Generate the first 1000 prime numbers beginning with 2 in any modern server-side
 
-* Services (job queues, cache servers, search engines, etc.)
+language.
 
-* Deployment instructions
+3. Make a Javascript AJAX request from the client to the server-side generator and output the
 
-* ...
+results on the page.
+
+4. Commit all code to the Github repository.
+
+* Bonus points for good commit history and writing supporting tests.
